@@ -7,3 +7,6 @@ If you plot (0 to 9). (5 points bonus)
 - to run make sure all CSVS are downloaded and in same folder
 - command to run- python3 Hw1.py
 - 
+![Screenshot_2024-09-05_084053](https://github.com/user-attachments/assets/f768e4f3-7ea4-4c12-9098-37d0b02315f1)
+![Screenshot_2024-09-05_083912](https://github.com/user-attachments/assets/f942f876-3ee0-445d-ba4c-91cda4ac9aaa)
+![Screenshot_2024-09-05_083854](https://github.com/user-attachments/assets/1693119e-0f1b-4f98-904a-a95d29db7129)
